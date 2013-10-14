@@ -1,0 +1,7 @@
+1.从下载cocos2d-x-2.2源码 (一定要是2.2版本 保持一致)
+
+2.解压 cocos2d-x-2.2.zip
+
+3.进入解压目录cocos2d-x-2.2 git clone  https://github.com/chaocc/demo.git 得到真实的projects
+ (一定要是projects目录在cocos2d-x-2.2目录下)
+
